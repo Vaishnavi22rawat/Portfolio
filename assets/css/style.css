@@ -187,6 +187,13 @@ canvas {
   line-height:1.6;
 }
 
+.timeline-content ul {
+  padding-left: 10px;
+}
+
+.timeline-content ul li{
+  font-size:14px;
+}
 
 
 /* ABSTRACT BLOB */
